@@ -128,7 +128,6 @@ python hex_map_generator.py
 The generator uses a cluster-based system with weighted compatibility to ensure natural terrain transitions:
 - Biomes form coherent clusters of 5-12 hexes
 - Forests transition through hills and plains before becoming deserts
-- Coastal areas border oceans and gradually move inland
 - Mountains cluster together and connect through hills
 - Grimdark biomes form corrupted regions opposite the starting area
 
